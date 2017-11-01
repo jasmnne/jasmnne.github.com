@@ -1,0 +1,19 @@
+:root {
+  --green: #47bbb8;
+  --blue: #5063ae;
+  --purple: #7e5aa6;
+  --bluegray: #414662;
+  --red: #d42251;
+  --rich-red: #B12251;
+  --white:#fff;
+  --silver:#eef3f3;
+  --chrome:#c2ccd1;
+  --mist: #aaa;
+  --concrete:#7e8892;
+  --gray:#4b555f;
+  --ink:#1f243c;
+}
+
+body {
+	background: var(--silver);
+}
